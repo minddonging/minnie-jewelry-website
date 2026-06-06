@@ -1,0 +1,42 @@
+<body>
+
+    <header>
+        <h1>MINNIE JEWELRY</h1>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="necklace.html">Necklaces</a>
+        <a href="bracelet.html">Bracelets</a>
+        <a href="ring.html">Rings</a>
+    </nav>
+
+    <main class="product-page">
+
+        <div class="product-detail">
+
+            <img src="necklace.jpg" alt="Golden Pearl Necklace">
+
+            <div class="product-info">
+                <h1>Golden Pearl Necklace</h1>
+
+                <p>
+                    Elegant pearl necklace with luxury gold design.
+                </p>
+
+                <h2>Price: $299</h2>
+
+                <button>Add to Cart</button>
+
+                <a href="index.html">Back Home</a>
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer>
+        <p>© 2026 Minnie Jewelry</p>
+    </footer>
+
+</body>

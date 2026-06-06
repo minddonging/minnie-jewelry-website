@@ -1,0 +1,42 @@
+<body>
+
+    <header>
+        <h1>MINNIE JEWELRY</h1>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="necklace.html">Necklaces</a>
+        <a href="bracelet.html">Bracelets</a>
+        <a href="ring.html">Rings</a>
+    </nav>
+
+    <main class="product-page">
+
+        <div class="product-detail">
+
+            <img src="bracelet.jpg" alt="Luxury Bracelet">
+
+            <div class="product-info">
+                <h1>Luxury Bracelet</h1>
+
+                <p>
+                    Stylish bracelet for modern fashion.
+                </p>
+
+                <h2>Price: $199</h2>
+
+                <button>Add to Cart</button>
+
+                <a href="index.html">Back Home</a>
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer>
+        <p>© 2026 Minnie Jewelry</p>
+    </footer>
+
+</body>

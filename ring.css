@@ -1,0 +1,42 @@
+<body>
+
+    <header>
+        <h1>MINNIE JEWELRY</h1>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="necklace.html">Necklaces</a>
+        <a href="bracelet.html">Bracelets</a>
+        <a href="ring.html">Rings</a>
+    </nav>
+
+    <main class="product-page">
+
+        <div class="product-detail">
+
+            <img src="ring.jpg" alt="Diamond Ring" width="300" height="400">
+
+            <div class="product-info">
+                <h1>Diamond Ring</h1>
+
+                <p>
+                    Elegant diamond ring with sparkling details.
+                </p>
+
+                <h2>Price: $399</h2>
+
+                <button>Add to Cart</button>
+
+                <a href="index.html">Back Home</a>
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer>
+        <p>© 2026 Minnie Jewelry</p>
+    </footer>
+
+</body>
